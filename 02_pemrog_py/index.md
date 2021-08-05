@@ -36,7 +36,7 @@ Some text...
 <div class="custom-tips" markdown="1">
 ![](../assets/images/tips.png)
 Tips!
-{: .fs-6 }
+{: .label .fs-6 }
 
 Some text...
 </div>
