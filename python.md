@@ -8,7 +8,7 @@ nav_order: 2
 
 bla bla bla
 
-<details>
+<details open markdown="block">
 <summary>
 Table of contents
 </summary>
