@@ -28,6 +28,8 @@ Kalian harus mencoba ini. Jangan sampai tidak.
 ## Warning!
 <div class="custom-warning" markdown="1">
 ![](../assets/images/warning.png)
+Warning!
+{: .label .label-red .fs-6 }
 
 Some text...
 </div>
