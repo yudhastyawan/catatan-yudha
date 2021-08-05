@@ -21,6 +21,8 @@ Table of contents
 ## Note
 <div class="custom-note" markdown="1">
 ![](../assets/images/note.png)
+Note
+{: .label .label-yellow .fs-6 }
 
 Kalian harus mencoba ini. Jangan sampai tidak.
 </div>
