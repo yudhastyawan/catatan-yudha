@@ -11,23 +11,20 @@ bla bla bla
 1. TOC
 {:toc}
 
-Note
-{: .label .label-yellow }
+## Note
 <div class="custom-note" markdown="1">
 ![](/assets/images/note.png)
 Kalian harus mencoba ini. Jangan sampai tidak.
 </div>
 
-Warning!
-{: .label .label-red }
+## Warning!
 <div class="custom-warning" markdown="1">
 ![](/assets/images/warning.png)
 
 Some text...
 </div>
 
-Tips!
-{: .label .label-blue }
+## Tips!
 <div class="custom-tips" markdown="1">
 ![](/assets/images/tips.png)
 
