@@ -20,21 +20,21 @@ Table of contents
 
 ## Note
 <div class="custom-note" markdown="1">
-![](/assets/images/note.png)
+![](../assets/images/note.png)
 
 Kalian harus mencoba ini. Jangan sampai tidak.
 </div>
 
 ## Warning!
 <div class="custom-warning" markdown="1">
-![](/assets/images/warning.png)
+![](../assets/images/warning.png)
 
 Some text...
 </div>
 
 ## Tips!
 <div class="custom-tips" markdown="1">
-![](/assets/images/tips.png)
+![](../assets/images/tips.png)
 
 Some text...
 </div>
