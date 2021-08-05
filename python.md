@@ -20,7 +20,7 @@ Kalian harus mencoba ini. Jangan sampai tidak.
 Warning!
 {: .label .label-red }
 <div class="custom-warning" markdown="1">
-![warning!](assert/images/warning.png)
+![warning!](asserts/images/warning.png)
 
 Some text...
 </div>
