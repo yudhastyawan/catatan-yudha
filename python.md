@@ -17,6 +17,6 @@ Kalian harus mencoba ini. Jangan sampai tidak.
 
 </div>
 
-<div class="custom-note">
+<div class="danger">
 <p><strong>Danger!</strong> Some text...</p>
 </div>
