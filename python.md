@@ -8,8 +8,15 @@ nav_order: 2
 
 bla bla bla
 
+<details>
+<summary>
+Table of contents
+</summary>
 1. TOC
 {:toc}
+</details>
+
+---
 
 ## Note
 <div class="custom-note" markdown="1">
