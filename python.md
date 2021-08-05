@@ -10,9 +10,9 @@ bla bla bla
 
 <div class="code-example" markdown="1">
 
-[Link button](http://example.com/){: .btn }
+Kalian harus mencoba ini. Jangan sampai tidak.
 
 </div>
 ```markdown
-[Link button](http://example.com/){: .btn }
+Note
 ```
