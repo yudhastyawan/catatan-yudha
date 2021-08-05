@@ -9,5 +9,10 @@ nav_order: 1
 bla bla bla
 
 <div class="code-example" markdown="1">
-this is a note.
+
+[Link button](http://example.com/){: .btn }
+
 </div>
+```markdown
+[Link button](http://example.com/){: .btn }
+```
