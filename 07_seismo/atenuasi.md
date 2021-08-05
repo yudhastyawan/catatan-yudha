@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Atenuasi pada gelombang
+---
 Atenuasi merupakan kondisi dimana sinyal yang terekam pada stasiun mengalami peluruhan amplitude yang diakibatkan oleh medium tempat gelombang tersebut merambat. Secara umum, atenuasi merupakan salah satu parameter dari pengaruh medium yang ikut mempengaruhi perilaku dari sinyal yang mana jika dalam domain frekuensi, sinyal yang terekam pada stasiun merupakan perkalian dari pengaruh sumber gempa `S(f)`, jalur medium merambat `B(f)`, kondisi sekitar stasiun perekaman `R(f)`, dan pengaruh instrumen/alat perekam tersebut `I(f)`. Secara matematisnya dapat dituliskan sebagai berikut:
 
 <div class="code-example" markdown="1">
