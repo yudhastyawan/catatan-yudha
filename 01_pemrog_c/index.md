@@ -25,6 +25,6 @@ output:
 hello world!
 ```
 
-[Live Code](https://ide.geeksforgeeks.org/K24VzP0csH){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/K24VzP0csH){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 Contoh diatas merupakan struktur sederhana dalam pemrograman bahasa C yang digunakan untuk menampilkan tulisan "Hello World!" di terminal komputer.
