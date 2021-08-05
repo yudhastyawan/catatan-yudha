@@ -1,5 +1,5 @@
 ---
-title: clang
+title: Dasar-dasar praktis pemrograman C
 has_children: true
 nav_order: 3
 ---
