@@ -1,13 +1,23 @@
-.custom-note {
+.custom-tips {
      background-color: #f0f7fb;
      border-left: solid 4px #3498db;
      line-height: 18px;
-     mc-auto-number-format: '{b}Note: {/b}';
      overflow: hidden;
      padding: 12px;
 }
 
-.danger {
-  background-color: #ffdddd;
-  border-left: 6px solid #f44336;
+.custom-warning {
+     background-color: #ffdddd;
+     border-left: solid 4px #f44336;
+     line-height: 18px;
+     overflow: hidden;
+     padding: 12px;
+}
+
+.custom-note {
+     background-color: #ffff89;
+     border-left: solid 4px #ffea00;
+     line-height: 18px;
+     overflow: hidden;
+     padding: 12px;
 }
