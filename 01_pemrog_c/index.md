@@ -12,3 +12,5 @@ Bahasa C merupakan bahasa yang telah dikembangkan sejak 1972 oleh Dennis M. Ritc
 ---
 <div data-pym-src="https://www.jdoodle.com/embed/v0/3tZy"></div>
 <script src=”https://www.jdoodle.com/assets/jdoodle-pym.min.js” type=”text/javascript”></script>
+
+Contoh diatas merupakan struktur sederhana dalam pemrograman bahasa C yang digunakan untuk menampilkan tulisan "Hello World!" di terminal komputer.
