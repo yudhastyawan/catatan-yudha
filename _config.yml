@@ -3,7 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
 
-url: "https://yudhastyawan.github.io/" # the base hostname & protocol for your site
+url: "https://yudhastyawan.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
 
