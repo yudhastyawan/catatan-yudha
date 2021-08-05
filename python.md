@@ -8,6 +8,8 @@ nav_order: 2
 
 bla bla bla
 
+## Note
+
 <div class="custom-note" markdown="1">
 Note
 {: .label .label-yellow }
