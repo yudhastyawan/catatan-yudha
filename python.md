@@ -14,6 +14,7 @@ bla bla bla
 ## Note
 <div class="custom-note" markdown="1">
 ![](/assets/images/note.png)
+
 Kalian harus mencoba ini. Jangan sampai tidak.
 </div>
 
