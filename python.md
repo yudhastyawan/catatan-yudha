@@ -14,16 +14,14 @@ bla bla bla
 Note
 {: .label .label-yellow }
 <div class="custom-note" markdown="1">
+![](/assets/images/note.png)
 Kalian harus mencoba ini. Jangan sampai tidak.
 </div>
 
 Warning!
 {: .label .label-red }
 <div class="custom-warning" markdown="1">
-![warning!](/assets/images/warning.png)
-
-Warning!
-{: .label .label-red }
+![](/assets/images/warning.png)
 
 Some text...
 </div>
@@ -31,6 +29,8 @@ Some text...
 Tips!
 {: .label .label-blue }
 <div class="custom-tips" markdown="1">
+![](/assets/images/tips.png)
+
 Some text...
 </div>
 
