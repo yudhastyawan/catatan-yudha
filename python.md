@@ -8,6 +8,9 @@ nav_order: 2
 
 bla bla bla
 
+1. TOC
+{:toc}
+
 Note
 {: .label .label-yellow }
 <div class="custom-note" markdown="1">
