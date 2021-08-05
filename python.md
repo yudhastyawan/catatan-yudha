@@ -21,6 +21,7 @@ Warning!
 {: .label .label-red }
 <div class="custom-warning" markdown="1">
 ![warning!](/assets/images/warning.png)
+
 Warning!
 {: .label .label-red }
 
