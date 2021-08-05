@@ -20,7 +20,3 @@ Kalian harus mencoba ini. Jangan sampai tidak.
 <div class="custom-note" markdown="1">
 Kalian harus mencoba ini. Jangan sampai tidak.
 </div>
-
-<div class="custom-note" markdown="1">
-Kalian harus mencoba ini. Jangan sampai tidak.
-</div>
