@@ -10,16 +10,25 @@ bla bla bla
 
 <div class="custom-note" markdown="1">
 Note
-{: .label }
+{: .label .label-yellow }
 
 Kalian harus mencoba ini. Jangan sampai tidak.
 </div>
 
-## memisahkan
+## Warning!
 
-<div class="danger" markdown="1">
-Danger!
+<div class="custom-warning" markdown="1">
+Warning!
 {: .label .label-red }
+
+Some text...
+</div>
+
+## Tips
+
+<div class="custom-tips" markdown="1">
+Tips!
+{: .label .label-blue }
 
 Some text...
 </div>
