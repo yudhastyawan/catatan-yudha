@@ -4,6 +4,6 @@ has_children: true
 nav_order: 8
 ---
 
-# Pengenalan C untuk Pemula
+# Catatan terkait dasar-dasar seismologi
 
-bla bla bla
+Bagian ini berisi catatan penulis mengenai hal-hal yang berhubungan dengan seismologi.
