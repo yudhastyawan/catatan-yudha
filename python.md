@@ -17,6 +17,9 @@ Kalian harus mencoba ini. Jangan sampai tidak.
 
 ## memisahkan
 
-<div class="danger">
-<p><strong>Danger!</strong> Some text...</p>
+<div class="danger" markdown="1">
+Danger!
+{: .label .label-red }
+
+Some text...
 </div>
