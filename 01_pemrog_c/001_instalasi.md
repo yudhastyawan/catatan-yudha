@@ -6,6 +6,15 @@ nav_order: 1
 ---
 
 # Instalasi kompiler C di komputer
+
+<details open markdown="block">
+<summary>
+Table of contents
+</summary>
+1. TOC
+{:toc}
+</details>
+
 ---
 Setiap sistem operasi (OS) punya caranya masing-masing dalam menginstall kompiler C yang biasanya telah menjadi satu paket dengan kompiler lainnya seperti C++ dan Fortran. Selain itu, kompiler C juga mempunyai banyak macamnya seperti gcc, clang, dan lainnya. Namun di tulisan ini, hanya akan diterangkan kompiler C untuk GCC saja.
 

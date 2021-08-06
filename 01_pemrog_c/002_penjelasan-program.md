@@ -6,6 +6,15 @@ nav_order: 2
 ---
 
 # Penjelasan kode C di Hello World
+
+<details open markdown="block">
+<summary>
+Table of contents
+</summary>
+1. TOC
+{:toc}
+</details>
+
 ---
 Tentu sudah tidak asing lagi bahwa setiap bahasa pemrograman punya cara tersendiri dalam menuliskan perintah-perintah dan sintaksnya di editor, begitupun dengan bahasa C. Mungkin bisa ditelisik kembali program sebelumnya yaitu:
 
