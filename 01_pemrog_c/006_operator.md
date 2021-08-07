@@ -89,6 +89,7 @@ Langsung saja ke tabel agar lebih paham
 ## Operator lainnya
 ---
 Selain yang telah disebutkan sebelumnya. Ada beberapa operator yang penting untuk diketahui. Diantaranya:
+
 | Operator | Deskripsi | Contoh |
 |---|---|---|
 | sizeof() | mengembalikan ukuran dari variabel | jika x sama dengan integer, maka sizeof(x) = 4 (ukuran integer) |
