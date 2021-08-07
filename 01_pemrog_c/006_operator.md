@@ -95,3 +95,4 @@ Selain yang telah disebutkan sebelumnya. Ada beberapa operator yang penting untu
 | & | mengembalikan alamat dari variabel | &x mengeluarkan alamat dari x |
 | * | pointer dari variabel | *a adalah pointer untuk variabel a |
 | ?: | operator kondisi | jika kondisi benar ? maka bernilai A : selain itu B |
+
